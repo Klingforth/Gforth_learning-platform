@@ -226,9 +226,10 @@ Fortgeschritten →  Kapitel 16–19 (Interpreter, Immediate Words, Vokabulare, 
 
 ---
 
-Lizens der Seite liegt bei:
+Lizenz der Seite liegt bei:
 
 ## Patrick Bruno Klingforth
 
+---
 
 ## *Gebaut mit ❤️ für die Forth-Community — eine Sprache die seit 1968 Computer anders denkt.*
