@@ -1,4 +1,4 @@
-#  Gforth Lernplattform
+#  Gforth Lernplattform V.1.0.12
 
 Eine vollständige, interaktive Lernplattform für die Programmiersprache **Forth** — speziell für [Gforth](https://gforth.org/) auf Linux/Arch. Keine Installation, keine Abhängigkeiten, kein Internet nötig. Eine einzige HTML-Datei.
 
@@ -225,5 +225,6 @@ Fortgeschritten →  Kapitel 16–19 (Interpreter, Immediate Words, Vokabulare, 
 | Dateigröße | 353 KB |
 
 ---
+
 
 *Gebaut mit ❤️ für die Forth-Community — eine Sprache die seit 1968 Computer anders denkt.*
