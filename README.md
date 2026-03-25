@@ -231,4 +231,4 @@ Lizens der Seite liegt bei:
 ## Patrick Bruno Klingforth
 
 
-*Gebaut mit ❤️ für die Forth-Community — eine Sprache die seit 1968 Computer anders denkt.*
+## *Gebaut mit ❤️ für die Forth-Community — eine Sprache die seit 1968 Computer anders denkt.*
