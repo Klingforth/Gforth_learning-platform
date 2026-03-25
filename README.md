@@ -36,11 +36,11 @@ Vollständige Wort-Referenz mit **Schwierigkeitsfilter**, **Querverweisen** und 
 - Wörter als „gelernt" markieren und Favoriten speichern
 - Wort des Tages
 
-### 🔬 Erweitert
+###  Erweitert
 Weitere ~149 Wörter für fortgeschrittene Themen:
 Doppelzahlen, gemischte Arithmetik, piktografische Ausgabe, Vokabular-System, erweiterte Kompilierung, lokale Variablen, erweiterte Strings, Floating Point, System/OS-Zugriff, Debugging-Tools, Gforth OOP
 
-### 📖 Tutorial — 19 Kapitel
+###  Tutorial — 19 Kapitel
 Geführte Lernpfade mit animierten Stack-Visualisierungen, Schritt-für-Schritt-Erklärungen und Mini-Quiz am Ende jedes Kapitels:
 
 | # | Kapitel | Level | XP |
