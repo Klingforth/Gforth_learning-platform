@@ -89,7 +89,7 @@ Multiple-Choice mit drei Fragetypen:
 - Favoriten-Sammlung auf einen Blick
 - Fortschritt zurücksetzen
 
-### 📜 Historie
+###  Historie
 - Vollständige Zeitleiste 1968–heute
 - Porträts der wichtigsten Personen (Chuck Moore, Elizabeth Rather, Leo Brodie, Anton Ertl …)
 - Einsatzgebiete heute: Space Shuttle, Open Firmware, Mikrocontroller, Bitcoin Script …
