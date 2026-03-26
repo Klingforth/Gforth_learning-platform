@@ -135,7 +135,7 @@ Umschaltbar per Toggle oben rechts. Dark Mode ist Standard.
 
 ##  Aufbau der Datei
 
-Alles in einer einzigen HTML-Datei (`gforth_lernplattform_final.html`, ~353 KB):
+Alles in einer einzigen HTML-Datei (`index.html`, ~353 KB):
 
 ```
 gforth_lernplattform_final.html
